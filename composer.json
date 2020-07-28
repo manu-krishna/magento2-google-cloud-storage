@@ -1,5 +1,5 @@
 {
-    "name": "bangerkuwranger/magento2-google-cloud-storage",
+    "name": "manu-krishna/magento2-google-cloud-storage",
     "type": "magento2-module",
     "version": "1.0.1",
     "license": "MIT",
@@ -15,6 +15,10 @@
 		{
 			"name": "Ramki",
 			"email": "ram10raj@gmail.com"
+		},
+		{
+			"name": "Manu Krishna",
+			"email": "manukrishna688@gmail.com"
 		}
 	  ],    
     "autoload": {
@@ -24,6 +28,6 @@
         }
     },
 	"require": {
-        "bangerkuwranger/google-cloud-storage-php-wrapper": "dev-master"
+        "manu-krishna/google-cloud-storage-php-wrapper": "dev-master"
     }
 }
